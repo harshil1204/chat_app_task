@@ -12,4 +12,6 @@ cd chat_app_task
 
 flutter pub get 
 
+Add Firebase configuration (google-services.json) in android/app/.
+
 flutter run
