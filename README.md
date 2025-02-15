@@ -1,16 +1,15 @@
 # chat_app1
 
-A new Flutter project.
+Social Media (Flutter + Firebase)
 
-## Getting Started
+I used flutter sdk 3.22.1 version
 
-This project is a starting point for a Flutter application.
+you can run with this command
 
-A few resources to get you started if this is your first Flutter project:
+git clone https://github.com/harshil1204/chat_app_task.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+cd chat_app_task
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter pub get 
+
+flutter run
